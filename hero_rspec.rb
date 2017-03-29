@@ -1,0 +1,2 @@
+describe Hero do
+end
